@@ -1,0 +1,28 @@
+# API Keys and secrets
+*.env
+.env
+
+# Data files (your personal vocabulary)
+russian_tutor_data.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Anaconda environments
+.conda/
+*.conda
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
