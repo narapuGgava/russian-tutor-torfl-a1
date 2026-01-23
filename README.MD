@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 
 ### Prerequisites
 
@@ -43,4 +42,4 @@ cat > README.md << 'EOF'
 2. Begin chatting with your tutor to learn your first words
 3. The tutor will automatically save new vocabulary when teaching
 
-EOF
+
